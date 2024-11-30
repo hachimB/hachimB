@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Hachim!<br>I'm a software developer with a strong interest in backend technologies.<br>I love building projects that solve real-world problems.<br><br>🔭 I’m currently working on enhancing my skills in JavaScript, Docker and backend technologies.<br>🌱 Excited to expand my skill set by diving into Go, particularly for its performance in backend systems.<br>💡 I enjoy contributing to open-source projects and collaborating with other developers.<br>💬 I’m open to discussing backend technologies!<br>Feel free to check out my repositories, and don't hesitate to connect!
+👋 Hi there, I'm Hachim!<br>I'm a software developer with a strong interest in backend technologies.<br>I love building projects that solve real-world problems.<br><br>🔭 I’m currently working on enhancing my skills in JavaScript and backend technologies.<br>🌱 Excited to expand my skill set by diving into Go, particularly for its performance in backend systems.<br>💡 I enjoy contributing to open-source projects and collaborating with other developers.<br>💬 I’m open to discussing backend technologies!<br>Feel free to check out my repositories, and don't hesitate to connect!
 
 
 ## 🌐 Socials:
