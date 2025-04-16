@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Hachim!<br>I'm a software developer with a strong interest in backend technologies.<br>I like building projects that solve real-world problems.<br>💡 I enjoy collaborating with other developers.<br>💬 I’m open to discussing backend technologies!<br>Feel free to check out my repositories, and don't hesitate to connect!
+👋 Hi there, I'm Hachim!<br>I'm a software developer with a strong interest in backend technologies.<br>I like building projects that solve real-world problems.<br>💬 I’m open to discussing backend technologies!<br>Feel free to check out my repositories, and don't hesitate to connect!
 
 
 ## 🌐 Socials:
